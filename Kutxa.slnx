@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/aspire/">
+    <Project Path="Kutxa.AppHost/Kutxa.AppHost.csproj" />
+    <Project Path="Kutxa.ServiceDefaults/Kutxa.ServiceDefaults.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="Kutxa.Application/Kutxa.Application.csproj" />
+    <Project Path="Kutxa.Domain/Kutxa.Domain.csproj" />
+    <Project Path="Kutxa.Infrastructure/Kutxa.Infrastructure.csproj" />
+    <Project Path="Kutxa.Presentation/Kutxa.Presentation.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="Kutxa.UnitTests/Kutxa.UnitTests.csproj" />
+  </Folder>
+</Solution>

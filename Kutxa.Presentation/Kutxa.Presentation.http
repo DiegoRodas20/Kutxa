@@ -1,0 +1,6 @@
+@Kutxa.Presentation_HostAddress = http://localhost:5055
+
+GET {{Kutxa.Presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
